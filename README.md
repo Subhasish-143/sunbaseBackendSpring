@@ -49,7 +49,7 @@ In the second phase, additional functionality has been added:
   - Description: A button named "Sync" has been added on the customer list screen. Clicking this button triggers a call to a remote API to fetch the customer list. The retrieved customers are then saved in the local database. If a customer already exists in the database, their information is updated instead of inserting a new record. for this you need to download frontend repositor or use postman (**for postman**:http://localhost:8080/home/api/customers/search/sunbase)
  
   - **Frontend Code Link**
-  - https://github.com/Subhasish-143/sunBaseFrontend.git
+  - https://github.com/Subhasish-143/sunBaseFrontendSpring.git
 
 ### Setup and Usage
 
